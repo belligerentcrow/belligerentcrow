@@ -1,8 +1,10 @@
-#### hi
+## hi
+***
 
 * cs student
 * endeavour os user
 * i like programming things
+
 ***
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,py,discord,git,linux,ps,vim,vscode,&perline=6)](https://skillicons.dev) 
 ***
