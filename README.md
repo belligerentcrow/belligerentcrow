@@ -6,6 +6,7 @@
 
 ***
 
+
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,py,discord,git,linux,ps,vim,vscode,&perline=6)](https://skillicons.dev)
 
 ***
