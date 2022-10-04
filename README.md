@@ -3,7 +3,7 @@
 
 * cs student
 * endeavour os user
-* i like programming things
+* i like programming things and using the terminal to do things
 
 ***
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,py,discord,git,linux,ps,vim,vscode,&perline=6)](https://skillicons.dev) 
