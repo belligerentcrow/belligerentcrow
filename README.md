@@ -5,6 +5,8 @@
 * endeavour os user
 * i like programming things and using the terminal to do things
 
+* (nota: sto aggiungendo degli appunti delle lezioni database, IeM, e algoritmi in formato markdown nelle repository corrispondenti mano mano che le seguo/le studio o ripasso)
+
 ***
 
 <div align="left">
