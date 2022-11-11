@@ -5,7 +5,8 @@
 * endeavour os user
 * i like programming things and using the terminal to do things
 
-* (nota: sto aggiungendo degli appunti delle lezioni database, IeM, e algoritmi in formato markdown nelle repository corrispondenti mano mano che le seguo/le studio o ripasso)
+<i>(nota: Sto aggiungendo degli appunti delle lezioni di  <b>[Database](https://github.com/belligerentcrow/db_notes)</b>, <b>[Interazione e Multimedia](https://github.com/belligerentcrow/iem_notes)</b>, e <b>[Algoritmi](https://github.com/belligerentcrow/algorithms_22-23)</b> in formato markdown,  
+ mano mano che le seguo/ripasso le vado piazzando nelle repositories pubbliche corrispondenti. C'è anche tanta roba in <b>[prog2](https://github.com/belligerentcrow/prog2)</b>.)</i>
 
 ***
 
