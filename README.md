@@ -10,3 +10,12 @@
 ***
 
 <img align="left" alt="Language Stats - belligerentcrow" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belligerentcrow&hide_border=true&theme=tokyonight" />
+
+<details>
+ <summary>Listening on the Spotify</summary>
+ 
+  <div align="center">
+                     <a href="https://github.com/belligerentcrow">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=9wuztcs8h72hav3izutdunf66">
+  </div>
+</details>
