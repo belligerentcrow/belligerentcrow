@@ -10,11 +10,8 @@
 ***
 
 <details>
- <summary>Listening on the Spotify</summary>
- 
-  <div align="center">
-                     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9wuztcs8h72hav3izutdunf66)
-  </div>
+<summary>Listening on the Spotify</summary>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9wuztcs8h72hav3izutdunf66)
 </details>
                             
 ***
