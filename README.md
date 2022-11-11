@@ -16,6 +16,6 @@
  
   <div align="center">
                      <a href="https://github.com/belligerentcrow">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=9wuztcs8h72hav3izutdunf66">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=9wuztcs8h72hav3izutdunf66>
   </div>
 </details>
