@@ -5,7 +5,7 @@
 * endeavour os user
 * i like programming things and using the terminal to do things
 
-<i>(nota: Sto aggiungendo degli appunti delle lezioni di  <b>[Database](https://github.com/belligerentcrow/db_notes)</b>, <b>[Interazione e Multimedia](https://github.com/belligerentcrow/iem_notes)</b>, e <b>[Algoritmi](https://github.com/belligerentcrow/algorithms_22-23)</b> in formato markdown,  
+<i>(nota: Sto aggiungendo degli appunti delle lezioni di  <b>[Database](https://github.com/belligerentcrow/db_notes)</b>, <b>[Interazione e Multimedia](https://github.com/belligerentcrow/iem_notes)</b>, <b>[Algoritmi](https://github.com/belligerentcrow/algorithms_22-23)</b>, <b>[Reti di Calcolatori](https://github.com/belligerentcrow/reti22-23)</b>, <b>[Sistemi Operativi](https://github.com/belligerentcrow/so_22-23)</b>, <b>[Ingegneria del Software](https://github.com/belligerentcrow/ids_22-23)</b> in formato markdown,  
  mano mano che le seguo/ripasso le vado piazzando nelle repositories pubbliche corrispondenti.)</b>.)</i>
 
 ***
