@@ -8,11 +8,11 @@
 
 ***
 
-<div align="left">
+<div align="center">
   
    ***things i work with*** <br>
   
-<img alt="my skills" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,py,discord,git,linux,vim,vscode,processing&perline=6"/>
+<img alt="my skills" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,py,discord,git,linux,vim,vscode,vscodium,processing,rust,obsidian,mysql&perline=4"/>
 </div>
 
 ***
