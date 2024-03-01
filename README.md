@@ -1,10 +1,10 @@
 ## hi
 ***
 
-* cs student
-* fedora i3 user
-* i like programming things and using the terminal to do things
-* learning rust
+* ☕ cs student ☕
+* 💾 fedora i3 user 💾
+* 💻 i like programming things and using the terminal to do things 💻
+* 🦀 learning rust 🦀 
 
 ***
 
