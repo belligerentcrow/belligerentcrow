@@ -43,16 +43,6 @@ MORE interesting software/things i've worked with | ![Fedora](https://img.shield
 
 ***
 
-
-<div align="right">
-  
-   ***things i'm listening to*** <br>
-  
-<img align="center" alt="Spotify Tracks" src="https://spotify-recently-played-readme.vercel.app/api?user=9wuztcs8h72hav3izutdunf66"/> 
-</div>
-
-***
-
 <div align="center">
 
 <img alt="tiny blinkie: i need some sleep..." src="https://raw.githubusercontent.com/belligerentcrow/belligerentcrow/main/assets/blink63.gif"/> <img alt="tiny blinkie: just peachy!" src="https://raw.githubusercontent.com/belligerentcrow/belligerentcrow/main/assets/peach.gif"/> <img alt="tiny blinkie: grooooovy!" src="https://raw.githubusercontent.com/belligerentcrow/belligerentcrow/main/assets/tumblr_inline_pcjgeoHA4m1vss73l_1280.gif"/> <br><img alt="tiny blinkie: bee afraid!" src="https://raw.githubusercontent.com/belligerentcrow/belligerentcrow/main/assets/tumblr_p8dd1tGijC1tganp7o2_250.gif"/> <img alt="tiny blinkie: don't like it? exit" src="https://raw.githubusercontent.com/belligerentcrow/belligerentcrow/main/assets/tumblr_static_5h66wf2omuosk4g44844kk4c0.gif"/>
