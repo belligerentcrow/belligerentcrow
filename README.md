@@ -40,6 +40,9 @@ more interesting software/things i've worked with | ![Fedora](https://img.shield
   <img alt="Language Stats - belligerentcrow" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belligerentcrow&hide_border=true&theme=tokyonight" />
 </div>
 
+***
+
+![belligerentcrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=belligerentcrow&show_icons=true&theme=merko)
 
 ***
 
