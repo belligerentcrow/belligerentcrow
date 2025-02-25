@@ -2,10 +2,11 @@
 ***
 
 * ☕ she/her, cs student ☕
-* 💾 fedora i3 user 💾
+* 💾 parrot os user 💾
 * 💻 i like programming things and using the terminal to do things 💻
 * 🦀 learning rust 🦀
 * ☕ learning java ☕
+* 🛠️ following T.O.P. paths 🧰
 
 ***
 
@@ -65,15 +66,4 @@ more interesting software/things i've worked with | ![Fedora](https://img.shield
 <br>
 <img alt="banner: this website looks best when viewed ON COMPANY TIME!" src="https://raw.githubusercontent.com/belligerentcrow/belligerentcrow/main/assets/lookbest.gif"/><br>
 <img alt="works on my machine..." src="https://forthebadge.com/images/badges/works-on-my-machine.png"/>
-
-
-
-
-
-
-
-
 </div>
-
-
-
