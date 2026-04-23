@@ -5,6 +5,7 @@
 * 💾 parrot os user 💾
 * ☕ current focus: cybersecurity, bash, mysql, python libraries ☕
 * 📓 obsidian enjoyer 📓
+* ☕ i like Computer Networks, CLI interfaces, Window Managers, and the C programming language ☕
 
 ***
 
