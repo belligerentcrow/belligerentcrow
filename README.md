@@ -3,10 +3,8 @@
 
 * ☕ she/her, cs student ☕
 * 💾 parrot os user 💾
-* 💻 i like programming things and using the terminal to do things 💻
-* 🦀 learning rust and java ☕
+* ☕ current focus: cybersecurity, bash, mysql, python libraries ☕
 * 📓 obsidian enjoyer 📓
-* 🛠️ following T.O.P. paths 🧰
 
 ***
 
@@ -18,12 +16,3 @@
 </p>
 
 </div>
-
-***
-
-
-<div align="center">
-  
-   ***things i do*** <br>
-
-  <img alt="Language Stats - belligerentcrow" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belligerentcrow&hide_border=true&theme=tokyonight" />  
